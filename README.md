@@ -6,8 +6,10 @@
 
 <img src="./assets/img/analisis-spotify.png"/>
 
+## Descripción del Trabajo
+Este trabajo es un ejercicio práctico para la asignatura de Python para Data Science, donde se analiza un dataset que contiene las canciones más importantes que actualmente son tendencias para más de 70 países.
 
-## Enlace de Dataset
+## Enlace del Dataset
 
 - Top Spotify Songs en 73 países (Daily Updated) [(Dataset Spotify)][kaggle]
 
